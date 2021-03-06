@@ -10,7 +10,7 @@ Commandes : add ; sub ; mult ; div ; calc (pas fini) ; pythagore ; isTriangle ; 
 Version 0.1.0
 ===
 ===
-Mezrci si vous m'aidez dans ce projet !
+Merci si vous m'aidez dans ce projet !
 =============================================
 
                     EN-US
@@ -21,4 +21,7 @@ Non-Utilisable---Except if your own token is created ( be careful don't publish 
 Prefix : §
 Commands : add ; sub ; mult ; div ; calc (not finished) ; pythagore ; isTriangle ; pgcd ; pow ; recpythagore ; rt ; help(not did)
 Version 0.1.0
+===
+===
+Thanks if you help me on this project !
 ============================================
